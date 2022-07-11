@@ -1,4 +1,4 @@
-package yxl;
+package yxl.RBTree;
 
 public class Test {
     public static void main(String[] args) {

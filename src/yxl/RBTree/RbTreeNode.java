@@ -1,4 +1,4 @@
-package yxl;
+package yxl.RBTree;
 
 public class RbTreeNode<K extends Comparable<K>, V> {
     public K key;
