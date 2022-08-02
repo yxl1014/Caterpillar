@@ -1,4 +1,4 @@
-package yxl.SkipList;
+package yxl.List.SkipList;
 
 /**
  * @Author: yxl

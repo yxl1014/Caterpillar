@@ -1,6 +1,4 @@
-package yxl.RBTree;
-
-import java.util.Stack;
+package yxl.Tree.RBTree;
 
 public class RbTree<K extends Comparable<K>, V> {
     private RbTreeNode<K, V> root = null;

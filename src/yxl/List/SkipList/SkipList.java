@@ -1,4 +1,4 @@
-package yxl.SkipList;
+package yxl.List.SkipList;
 
 import java.util.Arrays;
 import java.util.Random;

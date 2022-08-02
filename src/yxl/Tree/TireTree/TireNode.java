@@ -1,4 +1,4 @@
-package yxl.TireTree;
+package yxl.Tree.TireTree;
 
 /**
  * @Author: yxl
